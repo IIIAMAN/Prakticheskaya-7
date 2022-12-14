@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.AssemblyInfo.cs
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\bin\Debug\net6.0\praktan number 7.exe
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\bin\Debug\net6.0\praktan number 7.deps.json
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\bin\Debug\net6.0\praktan number 7.runtimeconfig.json
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\bin\Debug\net6.0\praktan number 7.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\bin\Debug\net6.0\praktan number 7.pdb
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\refint\praktan number 7.dll
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.pdb
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\praktan number 7.genruntimeconfig.cache
+C:\Users\Илья\Desktop\2 КУРС\c# основа\c#\praktan number 7\obj\Debug\net6.0\ref\praktan number 7.dll
